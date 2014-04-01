@@ -12,7 +12,7 @@ namespace WebServiceEnviarCorreo
     /// <summary>
     /// Descripción breve de Service1
     /// </summary>
-    [WebService(Namespace = "http://enviocorreo.apphb.com/servicecorreo.asmx")]
+    [WebService(Namespace = "http://enviocorreosoap.apphb.com/ServiceCorreo.asmx")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
     // Para permitir que se llame a este servicio web desde un script, usando ASP.NET AJAX, quite la marca de comentario de la línea siguiente. 
